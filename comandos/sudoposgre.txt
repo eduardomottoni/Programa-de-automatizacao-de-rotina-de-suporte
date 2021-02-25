@@ -1,0 +1,3 @@
+echo senha-usuario | sudo -S systemctl restart postgresql
+sudo systemctl restart sigma-mobile-loja
+sudo systemctl restart sigma-loja

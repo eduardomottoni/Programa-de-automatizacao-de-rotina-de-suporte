@@ -1,0 +1,1 @@
+echo senha-usuario|sudo -S virsh start vm_arius_loja

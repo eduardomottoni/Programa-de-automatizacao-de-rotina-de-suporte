@@ -1,0 +1,3 @@
+(
+echo senha-usuario|sudo -S systemctl restart pdvserver mysql
+)

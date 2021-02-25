@@ -1,0 +1,10 @@
+#Acompanhar som ambiente
+tail -f /opt/usuario/AmbientServer/log/ambient.log
+
+
+#Acompanhar o status do postgresql
+tail -f /var/log/postgresql/postgresql-10-main.log
+
+
+
+#"tail -f" acompanha as modificações de um arquivo log em tempo real
