@@ -1,4 +1,4 @@
-﻿Scripts desenvolvidos por Eduardo Martins Ottoni para uso das lojas união 1 a 99 outubro de 2019
+﻿Scripts desenvolvidos por Eduardo Martins Ottoni para uso das lojas xxxxxxxxx
 
 digite simplesmente o numero da loja, ex "10, 20, 31..." digite o numero de pdv com centena, ex "101, 102 110..."
 
