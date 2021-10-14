@@ -1,4 +1,7 @@
-﻿Scripts desenvolvidos por Eduardo Martins Ottoni para uso das lojas xxxxxxxxx
+![image](https://user-images.githubusercontent.com/56644658/137378532-017652cb-4501-42c9-bfbd-da6c21b1bca9.png)
+
+
+Scripts desenvolvidos por Eduardo Martins Ottoni para uso das lojas xxxxxxxxx
 
 digite simplesmente o numero da loja, ex "10, 20, 31..." digite o numero de pdv com centena, ex "101, 102 110..."
 
