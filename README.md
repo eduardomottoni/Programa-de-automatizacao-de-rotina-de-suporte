@@ -13,6 +13,6 @@ COMANDOS ESPECIAIS
 
 202.Coletor offline servidor 200
 
-# 203.Resetar postgresql+sigma-mobile-loja em todos os servidores 100 # Removido
+203.Resetar postgresql+sigma-mobile-loja em todos os servidores 100 # Removido
 
 
