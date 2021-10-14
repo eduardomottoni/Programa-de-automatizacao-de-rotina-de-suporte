@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/56644658/137378532-017652cb-4501-42c9-bfbd-da6c21b1bca9.png)
+![image](https://user-images.githubusercontent.com/56644658/137378591-d3a019a8-e2b7-4d0b-a987-9b9a4f507c19.png)
 
 
 Scripts desenvolvidos por Eduardo Martins Ottoni para uso das lojas xxxxxxxxx
